@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @SrHash, 31, from Brazil!
-- 👀 I’m interested in learning react / backend etc...
-- 🌱 I’m currently learning fullstack ...
-- 📫 How to reach me ... https://www.linkedin.com/in/ramon-crepaldi-02b9a697/
+Salesforce Developer | Business Operations Analyst | Front-end
+- 📫 Contact ... https://www.linkedin.com/in/ramon-crepaldi-02b9a697/
